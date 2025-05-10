@@ -34,6 +34,6 @@ base {
 
 dependencies {
     implementation project(':lib')
-    implementation 'net.java.dev.jna:jna:5.8.0'
+    implementation 'net.java.dev.jna:jna:5.17.0'
     implementation 'org.hid4java:hid4java:0.8.0'
 }
